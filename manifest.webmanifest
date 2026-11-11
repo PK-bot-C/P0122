@@ -1,0 +1,13 @@
+{
+  "name": "Heated Skin",
+  "short_name": "Heated Skin",
+  "description": "Heated and ventilated seat controller (P0122)",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060708",
+  "theme_color": "#060708",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
